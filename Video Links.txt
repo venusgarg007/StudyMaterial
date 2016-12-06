@@ -1,0 +1,8 @@
+Dev Tools and CSS -
+https://www.youtube.com/watch?v=Z3HGJsNLQ1E
+
+JavaScript -
+https://www.youtube.com/watch?v=XL9Ri8pO68w
+
+Event Loop - 
+https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be
