@@ -1,3 +1,6 @@
+Mongo, Node, Express (combined simplified) -
+http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+
 Express -
 http://expressjs.com/en/guide/routing.html
 
@@ -7,3 +10,10 @@ http://expressjs.com/en/starter/basic-routing.html
 
 NPM -
 https://docs.npmjs.com/getting-started/what-is-npm
+
+React -
+https://facebook.github.io/react/
+https://facebook.github.io/react/docs/hello-world.html
+https://facebook.github.io/react/docs/introducing-jsx.html
+https://facebook.github.io/react/docs/rendering-elements.html
+https://facebook.github.io/react/docs/components-and-props.html
