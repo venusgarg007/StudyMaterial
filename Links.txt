@@ -17,3 +17,4 @@ https://facebook.github.io/react/docs/hello-world.html
 https://facebook.github.io/react/docs/introducing-jsx.html
 https://facebook.github.io/react/docs/rendering-elements.html
 https://facebook.github.io/react/docs/components-and-props.html
+https://facebook.github.io/react/docs/thinking-in-react.html
